@@ -3,7 +3,7 @@ body {
     padding: 50px;
     display: grid;
     justify-content: center;
-    background: url("images/bg.jpg");
+    background: url("bg.jpg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
